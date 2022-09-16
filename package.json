@@ -1,0 +1,23 @@
+{
+  "name": "rfp-2207-products-api",
+  "version": "1.0.0",
+  "description": "API for reading and writing product data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfp2207Frodo/RFP-2207-Products-API.git"
+  },
+  "author": "Quargs Greene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfp2207Frodo/RFP-2207-Products-API/issues"
+  },
+  "homepage": "https://github.com/rfp2207Frodo/RFP-2207-Products-API#readme",
+  "dependencies": {
+    "mongoose": "^6.6.1",
+    "postgres": "^3.2.4"
+  }
+}
